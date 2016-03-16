@@ -30,7 +30,7 @@ h2 {color: #FF6D00;
 	float: right;
 }
 
-.GroupDetail li {
+.GroupDetail ul li {
 	color: red;
 	font-weight: bold;
 	padding-right: 20px;
@@ -145,13 +145,13 @@ h2 {color: #FF6D00;
 	color: #FF5252;
 }
 
-.LeftDetail li {
+.LeftDetail ul li {
 	padding-left: 50px;
 	font-size: 20px;
 	line-height: 40px;
 }
 
-.LeftDetail a {
+.LeftDetail ul li a {
 	color: #03A9F4;
 	text-decoration-style: solid;
 }
@@ -170,13 +170,13 @@ h2 {color: #FF6D00;
 	color: #FF5252;
 }
 
-.RightDetail li {
+.RightDetail ul li {
 	padding-left: 50px;
 	font-size: 20px;
 	line-height: 40px;
 }
 
-.RightDetail a {
+.RightDetail ul li a {
 	color: #03A9F4;
 	text-decoration-style: solid;
 }
